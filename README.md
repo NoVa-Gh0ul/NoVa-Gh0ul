@@ -1,7 +1,7 @@
 # 🗃️ Current Projects:
-- Realms+ Minecraft Automod
-- BlazeDB
-- Netherite Labs
+- **Realms+** - *a discord bot than can connect to and moderate minecraft bedrock realms*
+- **Rally** - *a statistic tracking discord bot to enhance server activity, promote engagement, provide activities to users*
+- Netherite Labs - *organization that provides custom made addons to paying customers*
 
 
 ## 🌐 Socials:
